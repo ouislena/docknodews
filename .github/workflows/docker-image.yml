@@ -26,4 +26,4 @@ jobs:
           context: .
           file: Dockerfile
           push: true
-          tags: yourname/yourimage:latest
+          tags: whfhtnhgjmgh/nodews:latest
